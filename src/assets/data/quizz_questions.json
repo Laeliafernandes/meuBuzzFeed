@@ -1,0 +1,61 @@
+{
+  "title": "Qual personagem da Disney você seria?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual habilidade você gostaria de ter?",
+      "options": [
+        {"id": 1, "name": "Transformar objetos", "alias": "A"},
+        {"id": 2, "name": "Voar", "alias": "B"},
+        {"id": 3, "name": "Falar com animais", "alias": "C"},
+        {"id": 4, "name": "Curar pessoas", "alias": "D"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Como você lidaria com um desafio?",
+      "options": [
+        {"id": 1, "name": "Enfrentaria de frente, sem medo", "alias": "A"},
+        {"id": 2, "name": "Procuraria ajuda dos amigos", "alias": "B"},
+        {"id": 3, "name": "Tentaria ser estratégico", "alias": "C"},
+        {"id": 4, "name": "Procuraria uma solução criativa", "alias": "D"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual seu maior valor?",
+      "options": [
+        {"id": 1, "name": "Coragem e determinação", "alias": "A"},
+        {"id": 2, "name": "Amizade e lealdade", "alias": "B"},
+        {"id": 3, "name": "Sabedoria e inteligência", "alias": "C"},
+        {"id": 4, "name": "Bondade e altruísmo", "alias": "D"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Como você se sente em relação a grandes responsabilidades?",
+      "options": [
+        {"id": 1, "name": "Estou pronto para enfrentá-las", "alias": "A"},
+        {"id": 2, "name": "Eu confio nas pessoas ao meu redor", "alias": "B"},
+        {"id": 3, "name": "Eu prefiro planejar cuidadosamente", "alias": "C"},
+        {"id": 4, "name": "Eu faria tudo por aqueles que amo", "alias": "D"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual seria o seu lema?",
+      "options": [
+        {"id": 1, "name": "Com grandes poderes vêm grandes responsabilidades", "alias": "A"},
+        {"id": 2, "name": "A vida é melhor quando se tem amigos", "alias": "B"},
+        {"id": 3, "name": "A sabedoria é o caminho para a paz", "alias": "C"},
+        {"id": 4, "name": "Faça o bem, sem olhar a quem", "alias": "D"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você seria o Peter Pan, aventureiro e destemido!",
+    "B": "Você seria o Simba, leal, corajoso e com grande senso de responsabilidade!",
+    "C": "Você seria o Aladdin, inteligente, engenhoso e cheio de charme!",
+    "D": "Você seria a Rapunzel, gentil, altruísta e com um grande coração!"
+  }
+}
