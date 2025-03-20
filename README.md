@@ -6,6 +6,10 @@ O **BuzzFeed** é uma plataforma digital de mídia que produz conteúdo de notí
 
 Este projeto foi gerado com a versão 14.1.2 do [Angular CLI](https://github.com/angular/angular-cli).
 
+### Requisitos
+
+É necessário ter o node instalado assim como angular cli.
+
 ### Rodando a aplicação
 
 Execute `ng serve` para iniciar o servidor de desenvolvimento. Acesse `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
